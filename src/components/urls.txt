@@ -1,0 +1,23 @@
+ // 1 antimage - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/antimage.png
+
+ // 2 pudge - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png
+
+// 3 lina - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lina.png
+
+// 4 crystal maiden - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/crystal_maiden.png
+
+// 5 natures prophet - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/furion.png
+
+// 6 brewmaster - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/brewmaster.png
+
+// 7 doom - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/doom_bringer.png
+
+// 8 drow - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/drow_ranger.png
+
+// 9 earthshaker - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earthshaker.png
+
+// 10 enigma - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png
+
+// 11 techies - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/techies.png
+
+// 12 rubick - https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rubick.png
